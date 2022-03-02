@@ -1,14 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
-import pandas as pd
-
-print(pd.__version__)
-
-
 # In[16]:
 
 
